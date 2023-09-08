@@ -501,6 +501,8 @@ separate command line arguments.  For example:
 
     nssm set <servicename> DependOnService RpcSs LanmanWorkstation
 
+    ## MICHAEL KAMAU
+
 
 The Name parameter can only be queried, not set.  It returns the service's
 registry key name.  This may be useful to know if you take advantage of
